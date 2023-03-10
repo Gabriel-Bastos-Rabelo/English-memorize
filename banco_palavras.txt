@@ -1,0 +1,7 @@
+monkey MACACO
+notebook CADERNO
+arm BRAÇO
+water ÁGUA
+coffe CAFÉ
+tower TORRE
+keyboard TECLADO
